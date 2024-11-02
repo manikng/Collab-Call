@@ -70,3 +70,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+.hero{
+  background-image: url("https://user-uploads-thumbs.shutterstock.com/aws-cloudfront-user-asset-uploads-prod-us-east-1/uploads/3b9b9f31-e41e-4993-bcc3-13f70a15c654/p/f171509ed92f01008de43fb7d2bc91575f47f616/1730534875941/Designernew%20(3)/JPG/1730534884/1500x1500/fit/c4cb20ae086dffc47c45bbede90e253189d2991b/Designernew%20(3).jpg");
+  background-position: center center;
+}
