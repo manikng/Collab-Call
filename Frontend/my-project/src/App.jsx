@@ -20,4 +20,24 @@ const App = () => {
   );
 };
 
-export default App;
+// import React from 'react';
+// import Navbar from './components/Navbar';
+// import Breadcrumb from './components/Breadcrumb';
+// import HeroSection from './components/HeroSection';
+// import FeaturesSection from './components/FeaturesSection';
+// import Footer from './components/Footer';
+
+// const App = () => {
+//   return (
+//     <>
+//       <Navbar />
+//       <Breadcrumb />
+//       <HeroSection />
+//       <FeaturesSection />
+//       <Footer />
+//     </>
+//   );
+// };
+
+// export default App;
+// export default App;
