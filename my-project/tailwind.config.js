@@ -7,6 +7,12 @@ export default {
   theme: {
     extend: {},
   },
+  
   plugins: [],
 }
 
+// tailwind.config.js
+module.exports = {
+  darkMode: 'class',
+  // ...
+}
